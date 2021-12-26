@@ -16,7 +16,12 @@ The user must install the npm packages to their local directory by navigating to
 ## Usage:
 The database is created by navigating to the MySQL shell and typing SOURCE db/schema.sql. Exit the MySQL shell and seed the data base by typing in the terminal npm run seed. Once the data base is seed, start the server by typing npm start. Once the server is running, you can test the api routes using Insomnia.
 
-![e-commerce-back-end-screenshot](/e-commerce-back-end-screenshot.png?raw=true "screenshot")
+link for tutorial that demonstrates how to use the application:
+https://watch.screencastify.com/v/BB8XKc3GxVSuVneUasqo
+
+there is also an MP4 file saved in the media folder in the Github repo under the name: e-commerce-back-end-demo.mp4
+
+![e-commerce-back-end-screenshot](/media/e-commerce-back-end-screenshot.png?raw=true "screenshot")
 
 ## Contributing:
 Please go to the Github repository provided to contribute to this project.
