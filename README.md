@@ -1,4 +1,4 @@
-# e-commerse-back-end
+# e-commerce-back-end
 
 ## Description: 
 This is a back end server with api routes for an E-commerce website. The routes allow a user to see all the categories, products, and tags. By using the id the user can access individual categories, products and tags. The user can create new categories, products and tags. The user can update individual categories, products, and tags. And finally, the user can delete indivdiual categories, products, and tagss.
